@@ -108,6 +108,8 @@ If this is your first time running this event.
 - [ ] Set up a session evaluation workflow. I've made a turn-key solution, [eval.datasaturdays.com](https://eval.datasaturdays.com/)
       or [eval.sqlsaturday.com](https://eval.sqlsaturday.com/). All you need is a Sessionize API token.
       But you can also [self-host](https://github.com/strdco/feedback.datasatsto.se), if that's your thing.
+      After I first wrote this app, Sessionize is including a feedback form natively in their solution.
+      This is probably a better fit for most organizers.
 - [ ] Email speakers with the sponsor slide and session evaluation URLs.
 - [ ] Register speakers and sponsors as attendees, if they haven't already. To make sure they get proper badges, etc.
 - [ ] Test to make sure the raffle draw workflow is working the way you want it to.
