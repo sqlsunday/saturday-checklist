@@ -186,7 +186,6 @@ Here are some automations I've built. Unfortunately, most of them are proprietar
 * Powershell: Extract and process leads scans per sponsor.
 * Powershell: Random raffle draw (used at the event).
 * Powershell: Clear/reset Mailchimp tags for a new year.
-* Node.js: [Generate badges as a PDF document](https://github.com/strdco/badge-printer), including the QR code
 
 
 
